@@ -170,4 +170,4 @@ fnol-processor/
 
 ## 👤 Author
 
-[chaitanya kumar yelisetti] - Assessment for Synapx
+[chaitanya kumar yelisetti]
